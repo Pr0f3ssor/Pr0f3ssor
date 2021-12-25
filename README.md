@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pr0f3ssor
-- 👀 I’m interested in Pnetesting
+- 👀 I’m interested in Pentesting
 - 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me porofessor-01@protonmail.com
 
