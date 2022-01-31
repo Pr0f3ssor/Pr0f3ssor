@@ -3,7 +3,7 @@ Hello world !
 
 I am Professor, a network administrator freelancer. I do some pentesting / white hacking in the same time since 2017, and I am here to share infos and knowledge with public as much as I can.
  
-# Contact ne 
+# Contact me 
 
 E-mail : porofessor-01@protonmail.com
 
