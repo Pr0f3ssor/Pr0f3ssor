@@ -1,11 +1,15 @@
 # About me 
 Hello world ! 
 
-I am Professor, a network administrator freelancer. I do some pentesting / white hacking in the same time since 2017, and I am here to share infos and knowledge with public as much as I can.
- 
+I usually called by Professor, a network administrator freelancer. I do some pentesting / white hacking in the same time since 2017, and I am here to share infos and knowledge with public as much as I can.
+
+I believe that skills are as much required as theoretical knowledge or even more, and therefore I carry out my own projects such as the establishment of network infrastructures, network administration, doing CTF rooms (Capture The Flag), creation of own source codes or scripts on Linux and much more.
+
+I like to share knowledge in addition to discovering new cultures and playing poker & chess.
+
 # Contact me 
 
-E-mail : porofessor-01@protonmail.com
+E-mail : ayoub.elbouzi@gmail.com
 
 Discord : Professor#6731
 
